@@ -2,7 +2,7 @@
     "name": "serbian-transliterators",
     "displayName": "serbian-transliterators",
     "description": "Transliterates Serbian Cyrillic to Latin and vice versa",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "packageManager": "pnpm@12.6.0",
     "license": "MIT",
     "author": {
